@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e31b6295-0b73-4ed9-828d-527fd184ad44" name="Default Changelist" comment="" />
+    <list default="true" id="e31b6295-0b73-4ed9-828d-527fd184ad44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlogProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1VNzg79mShvEbSwJm2p4F2MvHgR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,6 +68,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1506" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577890766359">
       <screen x="-1920" y="0" width="1920" height="1050" />
@@ -74,14 +89,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577439886602" />
-    <state x="-1180" y="281" key="FileChooserDialogImpl" timestamp="1578593185390">
+    <state x="-1306" y="120" key="CommitChangelistDialog2" timestamp="1578895148913">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1180" y="281" key="FileChooserDialogImpl/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578593185390" />
-    <state x="-1459" y="168" key="SettingsEditor" timestamp="1578847150256">
+    <state x="-1306" y="120" key="CommitChangelistDialog2/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578895148913" />
+    <state x="-1180" y="281" key="FileChooserDialogImpl" timestamp="1578894724151">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1459" y="168" key="SettingsEditor/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578847150256" />
+    <state x="-1180" y="281" key="FileChooserDialogImpl/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578894724151" />
+    <state x="-1459" y="168" key="SettingsEditor" timestamp="1578895076220">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1459" y="168" key="SettingsEditor/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578895076220" />
     <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578745384011" />
+    <state x="-1151" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578895113037">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1151" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578895113037" />
   </component>
 </project>
