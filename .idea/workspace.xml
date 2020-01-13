@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e31b6295-0b73-4ed9-828d-527fd184ad44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VNzg79mShvEbSwJm2p4F2MvHgR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mehed\Desktop\Blog\mainapp\templates" />
+      <recent name="C:\Users\mehed\Desktop\Blog\mainapp\templates\mainapp" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e31b6295-0b73-4ed9-828d-527fd184ad44" name="Default Changelist" comment="" />
+      <created>1577108449675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577108449675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577890766359">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1506" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1577890766359" />
+    <state x="-1201" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578893822167">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1201" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578893822167" />
+    <state x="719" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1577109403790" />
+    <state x="788" y="369" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1578156910455">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="788" y="369" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1920.1050@0.0.1920.1050" timestamp="1578156910455" />
+    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577439886602">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577439886602" />
+    <state x="-1180" y="281" key="FileChooserDialogImpl" timestamp="1578593185390">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1180" y="281" key="FileChooserDialogImpl/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578593185390" />
+    <state x="-1459" y="168" key="SettingsEditor" timestamp="1578847150256">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1459" y="168" key="SettingsEditor/0.0.1366.738/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578847150256" />
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578745384011" />
+  </component>
+</project>
