@@ -45,9 +45,9 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',# new!
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
@@ -138,5 +138,5 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 LOGIN_REDIRECT_URL = 'blog-home'
 LOGIN_URL = 'login'
 
-STATICFILES_STORAGE = 'whitenoise.middleware.WhiteNoiseMiddleware',# new!
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
